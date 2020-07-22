@@ -4,7 +4,8 @@
 
 /**
  * binary_tree_preorder - Entry point
- * @node: node
+ * @tree: node
+ * @func: function
  * Return: Always
  */
 
